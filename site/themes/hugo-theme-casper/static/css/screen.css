@@ -471,7 +471,7 @@ margin on the iframe, cause it breaks stuff. */
     position: relative;
     width: 80%;
     max-width: 710px;
-    margin: 0 75%;
+    margin: 75% auto;
 }
 
 /* Centres vertically yo. (IE8+) */
