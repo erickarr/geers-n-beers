@@ -10,7 +10,7 @@
 <header class="main-header no-cover">
 {{end}}
 
-    <nav class="main-nav overlay clearfix">
+    <!--nav class="main-nav overlay clearfix">
         {{ if .Site.Params.logo }}
             <a class="blog-logo" href="{{ .Permalink }}"><img src="{{.Site.BaseURL}}{{ .Site.Params.logo }}" alt="Blog Logo" /></a>
         {{end}}
@@ -23,9 +23,10 @@
               <a class="menu-button icon-feed" href="{{ .RSSLink }}">&nbsp;&nbsp;Subscribe</a>
             {{end}}
         {{end}}
-    </nav>
+    </nav-->
     <div class="vertical">
         <div class="main-header-content inner">
+            <!--
             {{ if .Site.Params.linkedinName }}
                 <a class="bloglogo" href="https://www.linkedin.com/in/{{ .Site.Params.linkedinName }}" target="_blank">
                     <span class="icon-linkedin" style="color:white;font-size:2em"></span>
@@ -68,6 +69,7 @@
                 </a>
             &nbsp;
             {{end}}
+            -->
 
             <h1 class="page-title">{{ .Site.Title }}</h1>
             <h2 class="page-description">{{ .Site.Params.description }}</h2>
