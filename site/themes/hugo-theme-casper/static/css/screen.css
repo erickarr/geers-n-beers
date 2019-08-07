@@ -1204,7 +1204,7 @@ body:not(.post-template) .post-title {
 }
 
 .tag-head.main-header {
-    height: 40vh;
+    height: 60vh;
     min-height: 180px;
 }
 
