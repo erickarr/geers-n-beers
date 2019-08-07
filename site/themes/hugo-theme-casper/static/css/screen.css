@@ -471,7 +471,7 @@ margin on the iframe, cause it breaks stuff. */
     position: relative;
     width: 80%;
     max-width: 710px;
-    margin: 0 auto;
+    margin: 0 75%;
 }
 
 /* Centres vertically yo. (IE8+) */
@@ -1204,7 +1204,7 @@ body:not(.post-template) .post-title {
 }
 
 .tag-head.main-header {
-    height: 80vh;
+    height: 70vh;
     min-height: 180px;
 }
 
