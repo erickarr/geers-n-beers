@@ -10,7 +10,7 @@ paginate = 10
 canonifyurls = true
 
 [params]
-  description = "this is my description"
+  description = "Support Our Team!"
   cover = "images/cover.jpg"
   author = "Geers 'n Beers Team"
   # TODO authorlocation = "Paris, France"
