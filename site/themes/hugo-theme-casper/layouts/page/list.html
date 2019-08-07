@@ -16,7 +16,7 @@
 {{else}}
 	<header class="main-header tag-head no-cover">
 {{end}}
-    <nav class="main-nav overlay clearfix">
+    <!--nav class="main-nav overlay clearfix">
       {{ if .Site.Params.logo }}
         <a class="blog-logo" href="{{.Site.BaseURL}}"><img src="{{.Site.BaseURL}}{{ .Site.Params.logo }}" alt="Home" /></a>
       {{end}}
@@ -29,16 +29,11 @@
           <a class="menu-button icon-feed" href="{{ .RSSLink }}">&nbsp;&nbsp;Subscribe</a>
         {{end}}
       {{end}}
-    </nav>
+    </nav-->
     <div class="vertical">
         <div class="main-header-content inner">
             <h1 class="page-title">{{.Title}}</h1>
-            <h2 class="page-description">
-                {{if .Params.description}}
-                    {{.Params.description}}
-                {{end}}
-                Testing 123
-            </h2>
+            <h2 class="page-description"><a href="http://mssoc.convio.net/goto/geers-n-beers">Support Us Here!</a></h2>
         </div>
     </div>
 </header>
