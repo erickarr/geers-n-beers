@@ -12,8 +12,6 @@ A year has quickly come and gone, summer is coming to a close, and our team is *
 
 In the coming weeks, we look to complete a few training rides together, with post ride hydration training to follow.
 
-We will be missing our friend and coworker Wayne (*Wayner*) Schellekens, who is not able to join us this year.
-
 ## Thank You
 Our team would like to extend our gratitude to those who have supported us in the past, and whom continue to support us as we move forward!
 
