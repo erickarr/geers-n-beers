@@ -881,6 +881,11 @@ body.nav-opened .menu-button .word {
     color: #fff;
 }
 
+/* Override color to white for hyperlinks in title */
+.page-title a {
+    color: #fff;
+}
+
 .page-description {
     margin: 0;
     font-size: 2rem;
