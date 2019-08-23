@@ -20,9 +20,8 @@ Due to your generosity, we were able to fundraise **$3,250** during the year of 
 ## Roster
 Here is our 2019 team! To support any particular team member, click on their name!
 
-[Chris (*"Kav"*) Kavanagh](http://mssoc.convio.net/site/TR/BikeTour/ManitobaDivision?px=2926119&pg=personal&fr_id=6520)<br/>
-[Cory (*"CJ"*) Jeffrey](http://mssoc.convio.net/site/TR/BikeTour/ManitobaDivision?px=2713571&pg=personal&fr_id=6520)<br/>
-[Dave (*"The Hammer"*) Schaefer](http://mssoc.convio.net/site/TR/BikeTour/ManitobaDivision?px=2714420&pg=personal&fr_id=6520)<br/>
+[Cory (*"The Hammer"*) Jeffrey](http://mssoc.convio.net/site/TR/BikeTour/ManitobaDivision?px=2713571&pg=personal&fr_id=6520)<br/>
+[Dave (*"Dave"*) Schaefer](http://mssoc.convio.net/site/TR/BikeTour/ManitobaDivision?px=2714420&pg=personal&fr_id=6520)<br/>
 [Eric (*"Ricky"*) Karr](http://mssoc.convio.net/site/TR/BikeTour/ManitobaDivision?px=2713558&pg=personal&fr_id=6520)<br/>
 [Mat (*"Matty G"*) Grabau](http://mssoc.convio.net/site/TR/BikeTour/ManitobaDivision?px=1246351&pg=personal&fr_id=6520)<br/>
 [Quezon (*"Q Money"*) Artates](http://mssoc.convio.net/site/TR/BikeTour/ManitobaDivision?px=2926141&pg=personal&fr_id=6520)<br/>
