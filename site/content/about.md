@@ -2,7 +2,7 @@
 author = "Geers 'n Beers Team"
 date = "2019-08-12T9:00:00-00:00"
 draft = false
-title = "Team Status - 2019 (Click Here)"
+title = "Team Status - 2019 (Donate Here)"
 comments = false
 
 +++
